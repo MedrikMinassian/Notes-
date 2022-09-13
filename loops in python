@@ -1,0 +1,10 @@
+loops allow us to iterate through code 
+for example if we want to print hello world five times 
+the range funciton creates a sequence 
+for example 
+for i in range (50) 
+print (i)
+will print 0 to 49 
+the start point is inclusive 
+the step is inclusie 
+the stop is exclusive 
