@@ -10,7 +10,9 @@ Operators are
 == (and)
 <= (or)
 >= (not)
-!= < >
+!= 
+<
+ >
 
 Operator	Description	Example
 ==	Checks if the value of two operands are equal	1 == 2 => False
