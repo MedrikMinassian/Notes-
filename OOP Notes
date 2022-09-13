@@ -1,0 +1,12 @@
+the idea of OOP is that everything in our code is an object.
+Everything in the outside world is an object therefore everything in our programming world is an object too. 
+A tree has some properties like trunk, leave, roots, branches. 
+Example of a tree; It interacts with the environment, tree grows, leaves fall. (these are behaviors)
+Properties of a tree/objects are attributes. 
+Bheviors are methods. 
+We have a planning stage where we write a lot of code it is called blueprint. 
+In the implementation stage we create methods. 
+CLASS, ATTRIBUTES, METHODS
+each class will have instances/objects
+OOP kind of allows you to organize your codes by creating relationships between lines of codes
+
