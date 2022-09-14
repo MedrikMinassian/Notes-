@@ -1,0 +1,4 @@
+How do you pass arguments to the __init__() function?
+
+
+When creating an object instance you pass the arguments to the specified class you are creating an instance of
